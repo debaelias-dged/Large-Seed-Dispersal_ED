@@ -345,7 +345,7 @@ G1
 
 ## *Bipartite Network*
 
-<div class=text-justify> Comments: We evaluated the stomatochorous dispersal network between tent-roosting bats and angiosperm in the Neotropics. 
+<div class=text-justify> Comments: We evaluated the large-seeded dispersal network between tent-roosting bats and angiosperm in the Neotropics. 
 
 Interaction Network 
 ```{r}
